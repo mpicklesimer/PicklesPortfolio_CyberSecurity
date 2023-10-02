@@ -7,8 +7,11 @@ I am an <a href="https://www.linkedin.com/in/milton-picklesimer-89a06028">Aspiri
 - <b>Reports</b>
  
 - <b>Scripts</b>
+<br><br />
+<a href="https://github.com/mpicklesimer/Cinco_de_Mayo_detector">BASH script - Cinco de Mayo & Star Wars Day Detector for Linux</a>
 
 <h2>📺 YouTube Videos</h2>
+<i>Under Construction</i>
 
 <h2>🤳 Connect with me:</h2>
 
